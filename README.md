@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gra w Kółko-krzyżyk</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="container">
+    <div class="container"
+        <h1>Gra w Kółko-Krzyżyk</h1>
         <p>Twoje serce to <span id="player-symbol">❤️</span>, a AI używa <span id="ai-symbol">🖤</span>.</p>
         <div id="game-board">
             <div class="row">
