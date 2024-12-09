@@ -39,6 +39,3 @@
   <a href="index.html" class="hidden-link">Pamiętaj, że cię kocham</a>
 </div>
 
-<style>
-
-</style>
